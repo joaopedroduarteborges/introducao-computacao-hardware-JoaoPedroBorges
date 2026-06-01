@@ -6,7 +6,7 @@ O Apple I foi um dos primeiros computadores pessoais da história e foi desenvol
 
 Seu lançamento representou um importante avanço na computação pessoal, contribuindo para tornar os computadores mais acessíveis fora dos ambientes militares, científicos e empresariais. O Apple I marcou o início da trajetória da Apple e ajudou a impulsionar a revolução dos computadores pessoais.
 
-![Apple I](Imagens/apple-1.jpg)
+![Apple I](./Imagens/apple-1.jpg)
 
 *Figura 1 – Apple I, lançado em 1976.*
 
