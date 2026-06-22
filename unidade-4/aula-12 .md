@@ -128,10 +128,4 @@ O TCP/IP é o mais fundamental, pois ele define a base da comunicação entre di
 
 ---
 
-## Referências
-
-- :contentReference[oaicite:0]{index=0}  
-- :contentReference[oaicite:1]{index=1}  
-- :contentReference[oaicite:2]{index=2}  
-- :contentReference[oaicite:3]{index=3}  
-- :contentReference[oaicite:4]{index=4}  
+ 
