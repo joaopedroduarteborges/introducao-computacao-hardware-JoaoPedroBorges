@@ -81,8 +81,8 @@ Exemplos:
 - FTP
 
 Arquivo:
-
-- `elementos_rede.pdf`
+ [Mapa Mental - Elementos da Comunicação](./mapa_mental_elementos_comunicacao_v3.pdf)
+- 
 
 ---
 
