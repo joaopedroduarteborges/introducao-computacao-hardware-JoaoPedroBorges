@@ -23,7 +23,7 @@ Os materiais produzidos foram baseados nos conteúdos estudados em sala de aula 
 
 # Conteúdo da Atividade
 
-## 1.  [Linha do Tempo](./linha_tempo.pdf)
+## 1.  [Linha do Tempo](.mapa_mental_linha_tempo_final.pdf)
 
 A linha do tempo apresenta os principais marcos históricos da evolução das redes de computadores:
 
