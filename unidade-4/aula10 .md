@@ -1,7 +1,7 @@
 # Aula 10 – Redes de Computadores: Histórico, Elementos e Classificação
 
 **Nome do estudante:** João Pedro Duarte  
-**Matrícula:** ____________
+**Matrícula:** 22607911
 
 ---
 
@@ -34,9 +34,7 @@ A linha do tempo apresenta os principais marcos históricos da evolução das re
 - Expansão das redes móveis e da Internet sem fio (2000 até os dias atuais).
 
 Arquivo:
-
-- `linha_tempo'
-
+[Mapa Mental - Linha do Tempo](./mapa_mental_linha_tempo_final.pdf)
 ---
 
 ## 2. Elementos Fundamentais de uma Rede
